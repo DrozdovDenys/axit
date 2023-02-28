@@ -1,4 +1,4 @@
-<h1 align="center">Axit</h1>
+<h1 align="center">«Axit»</h1>
 
 <div align="center"><img src="/images/readme.jpg"/></div>
 
